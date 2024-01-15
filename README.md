@@ -33,7 +33,3 @@ YelpCamp is a website application developed as part of The Web Developer Bootcam
 - An interactive map displays campsites worldwide.
 - Clusters on the map indicate the quantity of camps in a specific location.
 - Clicking on a cluster or individual camp provides more details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
