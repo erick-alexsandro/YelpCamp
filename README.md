@@ -1,6 +1,6 @@
 # YelpCamp - Web Developer Bootcamp 2024 Project
 
-YelpCamp is a website application developed as part of The Web Developer Bootcamp 2024. This project allows users to explore and review campsites from all over the world. It includes features such as star-based reviews, user registration, image uploading, and an interactive map with clusters indicating the quantity of camps in a particular location.
+YelpCamp is a website application developed as part of [The Web Developer Bootcamp 2024 by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/). This project allows users to explore and review campsites from all over the world. It includes features such as star-based reviews, user registration, image uploading, and an interactive map with clusters indicating the quantity of camps in a particular location.
 
 ## Table of Contents
 
@@ -9,7 +9,6 @@ YelpCamp is a website application developed as part of The Web Developer Bootcam
   - [Camp Reviews](#camp-reviews)
   - [Image Uploading](#image-uploading)
   - [Interactive Map](#interactive-map)
-- [License](#license)
 
 ## Features
 
